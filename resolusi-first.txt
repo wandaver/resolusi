@@ -1,0 +1,3 @@
+First Resolusi
+-Memulai untuk belajar github
+-Membuat sebuah project di github
