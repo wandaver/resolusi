@@ -2,3 +2,5 @@ First Resolusi
 -Memulai untuk belajar github
 -Membuat sebuah project di github
 -Mendeploy sebuah project
+-Memonitoring project
+-Melakukan test UAT
